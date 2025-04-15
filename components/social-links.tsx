@@ -9,7 +9,7 @@ const socialLinks = [
   },
   {
     name: "Twitter",
-    url: "https://x.com/PaulWu2005",
+    url: "https://x.com/drunkpiano2005",
     icon: Twitter,
   },
   {
