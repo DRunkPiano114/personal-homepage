@@ -7,7 +7,7 @@ export default function Home() {
       <div className="container mx-auto px-4 py-12">
         <header className="mb-12 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">DrunkPiano's Profile</h1>
-          <p className="mt-3 text-xl text-gray-600">Thank you for visiting my profile. I really appreciate it.</p>
+          <p className="mt-3 text-xl text-gray-600">Thank you for visiting my profile. LOVE FROM CANBERRA!</p>
         </header>
 
         <section className="mb-16">
